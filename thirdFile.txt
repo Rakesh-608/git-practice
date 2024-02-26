@@ -1,7 +1,5 @@
 This is third file.
-<<<<<<< HEAD
-written on branch1.
-=======
 
--Written on branch2
->>>>>>> branch2
+- written on branch1.
+
+- Written on branch2
